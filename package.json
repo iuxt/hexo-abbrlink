@@ -1,5 +1,5 @@
 {
-  "name": "hexo-abbrlink",
+  "name": "hexo-abbrlink-iuxt",
   "version": "2.2.2",
   "description": "create one and only link for every post for hexo",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rozbo/hexo-abbrlink.git"
+    "url": "git+https://github.com/iuxt/hexo-abbrlink.git"
   },
   "keywords": [
     "hexo",
@@ -20,9 +20,9 @@
   "author": "rozbo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rozbo/hexo-abbrlink/issues"
+    "url": "https://github.com/iuxt/hexo-abbrlink/issues"
   },
-  "homepage": "https://github.com/Rozbo/hexo-abbrlink#readme",
+  "homepage": "https://github.com/iuxt/hexo-abbrlink#readme",
   "dependencies": {
     "hexo-front-matter": "^1.0.0",
     "hexo-fs": "^3.1.0"
