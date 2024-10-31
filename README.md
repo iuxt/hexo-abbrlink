@@ -1,3 +1,19 @@
+
+
+
+
+上传自己的包：
+
+
+修改 `package.json` 包，修改包名
+
+```bash
+npm login
+npm publish
+```
+
+
+
 # hexo-abbrlink
 [![npm](https://img.shields.io/npm/dm/hexo-abbrlink.svg)](https://www.npmjs.com/package/hexo-abbrlink)
 [![npm](https://img.shields.io/npm/dy/hexo-abbrlink.svg)](https://www.npmjs.com/package/hexo-abbrlink)
